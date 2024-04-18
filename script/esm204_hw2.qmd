@@ -1,0 +1,19 @@
+---
+title: "ESM 204 HW2"
+author: "Caroline Edmonds & Priscilla Ta"
+format: 
+  html:
+    code-fold: true
+    toc: true
+    number-sections: true
+    embed-resources: true
+    mainfont: Times, "Times New Roman", Georgia, sans-serif;
+editor: visual
+theme: darkly
+execute:
+  echo: true
+  message: false
+  warning: false
+---
+
+## 
